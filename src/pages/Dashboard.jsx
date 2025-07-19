@@ -24,7 +24,7 @@ const Dashboard = () => {
 
   return (
     <div className="dashboard-wrapper">
-      {/* === SIDEBAR === */}
+      {/* SIDEBAR */}
       <aside className="dashboard-sidebar">
         <div className="sidebar-header">
           <h2 className="sidebar-logo">Aspirobot</h2>
@@ -51,12 +51,12 @@ const Dashboard = () => {
         </nav>
       </aside>
 
-      {/* === MAIN AREA === */}
+      {/* MAIN AREA  */}
       <main className="dashboard-main">
         {activeSection === "dashboard" && (
           <div className="dashboard-content">
 
-            {/* === INTRO SECTION === */}
+            {/*  INTRO SECTION  */}
             <div className="bot-intro">
               <img src={botImage} alt="Aspirobot" className="intro-img" />
               <div className="intro-text">
