@@ -28,6 +28,7 @@ dist-ssr
 resume_analyser/.env
 roadmap/.env
 server/.env
+src/components/.env
 
 # Build + OS + IDE
 node_modules/
