@@ -157,9 +157,20 @@ streamlit run roadmap.py
 ## 📌 Note
 
 This is a collaborative project built with a strong focus on clean UI, user-centered design, and real-time AI integration. The project is currently under development and will be updated with deployment links soon.
-........
 
 
+## Contributors
 
+Sugandha Sawhney (SugandhaSawhney)
+• Designed and developed the UI/UX using React.js.
+• Handled frontend implementation and API integrations.
+• Contributed partially to the SkillBot Nova, Resume Analyzer, and Roadmap Generator, especially during integration and backend refinement.
 
+Prerna Rajora(PrernaRajora) & Sonali Rawat(sonali17sr)
+• Developed the backend functionality of the Resume Analyzer and Roadmap Generator using Streamlit and Google Gemini API.
+• Focused on data processing, visualization, and AI workflow.
+
+Ishika(Ishika0igdtuw) & Aradhana Das(Aradhana10igdtuw)
+• Worked on building the SkillBot Nova, an interactive AI chatbot for career and learning guidance.
+• Contributed to conversation design, response logic, and AI prompt structuring.
 
