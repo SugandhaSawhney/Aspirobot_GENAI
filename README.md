@@ -7,7 +7,7 @@ This is an ongoing project and will continue to evolve with new features and enh
 
 ---
 
-## 🔧 Current Project Status
+##  Current Project Status
 
 - This project is still under development.
 - The platform is **not deployed yet**. A live preview link will be added here once deployment is complete.
@@ -19,7 +19,7 @@ This is an ongoing project and will continue to evolve with new features and enh
 
 ---
 
-## 🌟 Features
+##  Features
 
 ### 1. Resume Analyzer
 
@@ -60,7 +60,7 @@ This is an ongoing project and will continue to evolve with new features and enh
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Area       | Tools Used               |
 |------------|--------------------------|
@@ -75,7 +75,7 @@ This is an ongoing project and will continue to evolve with new features and enh
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 Aspirobot_GENAI/
 ├── public/
 ├── src/
@@ -89,7 +89,7 @@ Aspirobot_GENAI/
 ├── index.css
 └── README.md
 
-## 📸 PREVIEW
+##  PREVIEW
 
 ## LandingPage 
 
@@ -123,7 +123,7 @@ Aspirobot_GENAI/
 
 ##  How to Run Locally
 
-### ✅ Prerequisites
+### Prerequisites
 - Node.js + npm
 - Python 3.x
 - Virtualenv (recommended)
@@ -154,7 +154,7 @@ streamlit run roadmap.py
 
 ### Use your API keys in env file
 
-## 📌 Note
+##  Note
 
 This is a collaborative project built with a strong focus on clean UI, user-centered design, and real-time AI integration. The project is currently under development and will be updated with deployment links soon.
 
